@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+        <Ad id="93019">
+            <InLine>
+                <AdSystem version="0.1.0">clickyab-vast</AdSystem>
+                <AdTitle>
+                    <![CDATA[
+
+]]>
+                </AdTitle>
+                <Description>
+                    <![CDATA[
+
+]]>
+                </Description>
+                <Creatives>
+                    <Creative sequence="1" id="61325">
+                        <Linear skipOffset="00:00:03">
+                            <Duration>00:00:10</Duration>
+                            <VideoClicks>
+                                <ClickThrough>
+                                   <![CDATA[
+http://v.clickyab.com/click/vast/17645/eeed6b1053d9b49b74c0e5f8b60871c3b09b6e80/102185/6921fbe5b5841b2a3917de6f3f38783d61cb7f90?parent=&ref=http%3A%2F%2Fjabeh.com%2Fwatch%2Fe78441%2F%25DA%25A9%25D9%2584%25DB%258C%25D9%25BE-%25D9%2581%25D9%2588%25D9%2582-%25D8%25AE%25D9%2586%25D8%25AF%25D9%2587-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A2%25D8%25AE%25D8%25B1-%25D8%25B3%25D8%25B1%25DA%25A9%25D8%25A7%25D8%25B1-%25DA%25AF%25D8%25B0%25D8%25A7%25D8%25B4%25D8%25AA%25D9%2586-%25D8%25AF%25D8%25AE%25D8%25AA%25D8%25B1%25D8%25A7&tid=3958554193
+]]>
+                                </ClickThrough>
+                            </VideoClicks>
+                                
+                            <MediaFiles>
+                                <MediaFile delivery="progressive" bitrate="24" width="800" height="440" type="image">
+                                    <![CDATA[
+http://static.clickyab.com/ad/800x440/20170419-7489651-800-440.gif
+]]>
+                                </MediaFile>
+                            </MediaFiles>
+                        </Linear>
+                    </Creative>
+                </Creatives>
+            </InLine>
+        </Ad>
+    </VAST>
