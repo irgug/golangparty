@@ -21,7 +21,7 @@
                                 
                             <MediaFiles>
                                 <MediaFile delivery="progressive" bitrate="24" width="800" height="440" type="image">
-                                    <![CDATA[http://static.clickyab.com/ad/800x440/20170419-7489651-800-440.gif]]>
+                                    <![CDATA[https://s3.amazonaws.com/demo.jwplayer.com/static-tag/jwplayer-30s.mp4]]>
                                 </MediaFile>
                             </MediaFiles>
                         </Linear>
