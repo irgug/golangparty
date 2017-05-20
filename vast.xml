@@ -1,0 +1,29 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+<vmap:AdBreak timeOffset="start" breakType="linear" breakId="slot_0"  repeatAfter="00:00:10">
+<vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[
+http://v.clickyab.com/show/vast/b31b55c50bf41fe6b6cdaf4bf467931d59e1ad8c/17645/m10ce95de4e57866fd5c80b450612183089cce42cd?l=default&parent=&pos=start&ref=&s=3529959&tid=3958554193&type=linear
+]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:00:10" breakType="non-linear" breakId="slot_1" repeatAfter="00:00:12">
+<vmap:AdSource id="midroll-1-ad-2" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[
+http://v.clickyab.com/show/vast/b31b55c50bf41fe6b6cdaf4bf467931d59e1ad8c/17645/m11569fef0b5ce9344b3a4c310a2dbd085db83a6e6?l=default&parent=&pos=00%3A00%3A10&ref=&s=3529960&tid=3958554193&type=non-linear
+]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="end" breakId="slot_2" breakType="linear" breakId="midroll-1" repeatAfter="00:00:10">
+<vmap:AdSource id="midroll-1-ad-3" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[
+http://v.clickyab.com/show/vast/b31b55c50bf41fe6b6cdaf4bf467931d59e1ad8c/17645/m12ef8aadced42513586f770fc630989c50a7df958?l=default&parent=&pos=end&ref=&s=3766945&tid=3958554193&type=linear
+]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+</vmap:VMAP>
