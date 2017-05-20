@@ -2,17 +2,17 @@
 <vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
   <vmap:AdBreak timeOffset="start" breakId="slot_0" breakType="linear" repeatAfter="00:00:10">
     <vmap:AdSource allowMultipleAds="false" followRedirects="true">
-      <vmap:AdTagURI templateType="vast3">		<![CDATA[http://v.clickyab.com/show/vast/2f55ca8713c8a72af6bf8dff917e71d5795aae56/17645/m1772d49f509cd7903fba12baaeb42b2129b34448a?l=default&parent=&pos=start&ref=&s=3529959&tid=3958554193&type=linear]]>		</AdTagURI>
+      <vmap:AdTagURI templateType="vast3">		<![CDATA[https://v.clickyab.com/show/vast/2f55ca8713c8a72af6bf8dff917e71d5795aae56/17645/m1772d49f509cd7903fba12baaeb42b2129b34448a?l=default&parent=&pos=start&ref=&s=3529959&tid=3958554193&type=linear]]>		</AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
   <vmap:AdBreak timeOffset="00:00:10" breakId="slot_1" breakType="non-linear" repeatAfter="00:00:12">
     <vmap:AdSource allowMultipleAds="false" followRedirects="true">
-      <vmap:AdTagURI templateType="vast3">		<![CDATA[http://v.clickyab.com/show/vast/2f55ca8713c8a72af6bf8dff917e71d5795aae56/17645/m18d76af3c587cf0017971e3cce33bb76629a43e73?l=default&parent=&pos=00%3A00%3A10&ref=&s=3529960&tid=3958554193&type=non-linear]]>		</AdTagURI>
+      <vmap:AdTagURI templateType="vast3">		<![CDATA[https://v.clickyab.com/show/vast/2f55ca8713c8a72af6bf8dff917e71d5795aae56/17645/m18d76af3c587cf0017971e3cce33bb76629a43e73?l=default&parent=&pos=00%3A00%3A10&ref=&s=3529960&tid=3958554193&type=non-linear]]>		</AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
   <vmap:AdBreak timeOffset="end" breakId="slot_2" breakType="linear" repeatAfter="00:00:10">
     <vmap:AdSource allowMultipleAds="false" followRedirects="true">
-      <vmap:AdTagURI templateType="vast3">		<![CDATA[http://v.clickyab.com/show/vast/2f55ca8713c8a72af6bf8dff917e71d5795aae56/17645/m13a3d508dba88f1721e839c9d37c91fb6ec456e36?l=default&parent=&pos=end&ref=&s=3766945&tid=3958554193&type=linear]]>		</AdTagURI>
+      <vmap:AdTagURI templateType="vast3">		<![CDATA[https://v.clickyab.com/show/vast/2f55ca8713c8a72af6bf8dff917e71d5795aae56/17645/m13a3d508dba88f1721e839c9d37c91fb6ec456e36?l=default&parent=&pos=end&ref=&s=3766945&tid=3958554193&type=linear]]>		</AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
 </vmap:VMAP>
